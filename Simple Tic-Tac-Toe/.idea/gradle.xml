@@ -12,11 +12,17 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Topics/Standard input/Four numbers" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Printing each word in a new line" />
             <option value="$PROJECT_DIR$/Topics/Standard input/Read and print" />
             <option value="$PROJECT_DIR$/Topics/Standard input/Scanner" />
             <option value="$PROJECT_DIR$/Topics/Standard input/Statements" />
             <option value="$PROJECT_DIR$/Topics/Standard input/Successful reading" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/The suitable inputs" />
             <option value="$PROJECT_DIR$/Topics/Standard input/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Addition and multiplication" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Correct ways to create a string" />
+            <option value="$PROJECT_DIR$/Topics/String basics/JSON" />
+            <option value="$PROJECT_DIR$/Topics/String basics/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
